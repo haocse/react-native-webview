@@ -59,6 +59,7 @@
     "type": "git",
     "url": "https://github.com/react-native-community/react-native-webview.git"
   },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "files": [
     "android",
     "ios",
